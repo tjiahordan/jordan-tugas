@@ -1,68 +1,3 @@
-# jordan-tugas
-
-AppMaya.sql
-Your file will expire in 24 hours unless you sign up.
-Add a CTAUpgrade
-
-Button visibility
-From
-00:00:00
-Button type
-Button text
-Button link
-Button color
-#1891ED
-
-Text color
-#FFFFFF
-
-Button location
-Button style
-Show my photo 
- 
-Choose ThumbnailUpgrade
-
-Static
-Animation
- 
-
-Trim your video using the handles and Split button. Merge with other videos by clicking the Add Clip button. 
-
-View help article
- Edit Captions
-
- Engagement Insights
-
-Video Views
-0
-Video Downloads
-0
-Call-to-Action Clicks 
-0
-Average Completion Rate 
-0%
-viewers
-
-
-Someone from Pakistan desktop
-Apr 14, 2021
-
-Someone from Pakistan desktop
-Apr 14, 2021
-
-Someone from Pakistan desktop
-Apr 14, 2021
- Transcription
-
-Engagement Insights
-
-Analytics
-
-Find out who viewed and downloaded
-your file, when, and from where.
-0 Comments
-
-Leave a comment
 CREATE DATABASE AppMaya;
 use AppMaya
 create table User(
@@ -136,4 +71,3 @@ SELECT * FROM children;
 SELECT * FROM activities;
 SELECT * FROM meals;
 SELECT * FROM health;
-No file chosenNo file chosen
